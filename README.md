@@ -1,5 +1,5 @@
 # Geotagmapping
-This is a digital photo geotagging tool that I made.
+Welcome! This digital photo geotagging tool is designed to help you easily organize and map your memories.
 
 
 Use the Python script located in “gpx_to_csv” to convert your .GPX file into a .CSV format.
