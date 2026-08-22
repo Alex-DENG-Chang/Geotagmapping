@@ -4,7 +4,9 @@ Welcome! This digital photo geotagging tool is designed to help you easily organ
 
 Use the Python script located in “gpx_to_csv” to convert your .GPX file into a .CSV format.
 Subsequently, RUN the Python script located in “map_generation” to use the .CSV file as input to generate a visually appealing map.
+
 New GUI with Preview updated.
+
 
 Example of the outcome (I love travelling around, each dot represent one photo was taken by me):
 
